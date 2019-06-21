@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: #CCEEFF;
+}
+.transbox{
+    width: 50%;
+    height:150px;
+    border: 7px solid black;
+    text-align: center;
+    margin-left:27%;
+    font-size: 16px;
+}

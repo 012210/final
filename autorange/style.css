@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url("bg75.jpg");
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+}
+
+td{
+    border-bottom: 3px dashed #227700;
+}
+
+.profile { border-radius: 50%;
+		   border:1px solid #DDAA00;
+		  }
